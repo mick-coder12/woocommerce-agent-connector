@@ -1,5 +1,2 @@
 mcp>=1.2.0
 requests>=2.31.0
-tenacity>=8.2.3
-pydantic>=2.10.1
-cachetools>=5.3.3
